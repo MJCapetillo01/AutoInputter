@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoInputter", "AutoInputter\AutoInputter.csproj", "{1727C37F-A805-4F93-909F-D3DB9BED3EB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.CurtisRutland.WpfHotkeys", "Com.CurtisRutland.WpfHotkeys\Com.CurtisRutland.WpfHotkeys.csproj", "{4F9B6DA3-261D-46CB-B677-9BEA7DF419A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1727C37F-A805-4F93-909F-D3DB9BED3EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1727C37F-A805-4F93-909F-D3DB9BED3EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1727C37F-A805-4F93-909F-D3DB9BED3EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1727C37F-A805-4F93-909F-D3DB9BED3EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9B6DA3-261D-46CB-B677-9BEA7DF419A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9B6DA3-261D-46CB-B677-9BEA7DF419A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9B6DA3-261D-46CB-B677-9BEA7DF419A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9B6DA3-261D-46CB-B677-9BEA7DF419A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57F5B31-043F-411F-91B9-39E8862858F6}
+	EndGlobalSection
+EndGlobal

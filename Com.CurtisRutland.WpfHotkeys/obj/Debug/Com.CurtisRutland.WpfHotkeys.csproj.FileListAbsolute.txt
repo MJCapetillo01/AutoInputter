@@ -1,0 +1,6 @@
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\bin\Debug\Com.CurtisRutland.WpfHotkeys.dll
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\bin\Debug\Com.CurtisRutland.WpfHotkeys.pdb
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\obj\Debug\Com.CurtisRutland.WpfHotkeys.csproj.AssemblyReference.cache
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\obj\Debug\Com.CurtisRutland.WpfHotkeys.csproj.CoreCompileInputs.cache
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\obj\Debug\Com.CurtisRutland.WpfHotkeys.dll
+C:\Users\mjcap\Desktop\WpfHotkeys-master\Com.CurtisRutland.WpfHotkeys\obj\Debug\Com.CurtisRutland.WpfHotkeys.pdb

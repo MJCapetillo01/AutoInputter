@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AutoInputter/1.0.0": {
+        "dependencies": {
+          "Com.CurtisRutland.WpfHotkeys": "1.0.0"
+        },
+        "runtime": {
+          "AutoInputter.dll": {}
+        }
+      },
+      "Com.CurtisRutland.WpfHotkeys/1.0.0": {
+        "runtime": {
+          "Com.CurtisRutland.WpfHotkeys.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoInputter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Com.CurtisRutland.WpfHotkeys/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
